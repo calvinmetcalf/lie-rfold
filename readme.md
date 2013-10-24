@@ -1,5 +1,5 @@
 ```javascript
-var rfold = require('lie-lfold');
+var rfold = require('lie-rfold');
 ```
 
 ###fold right
