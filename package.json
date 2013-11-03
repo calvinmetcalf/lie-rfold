@@ -1,6 +1,6 @@
 {
   "name": "lie-rfold",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "fold all of the lies from the right",
   "main": "lib/rfold.js",
   "scripts": {
